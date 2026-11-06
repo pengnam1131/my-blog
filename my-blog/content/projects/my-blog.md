@@ -6,7 +6,7 @@ period: 2026.11
 role: 기획, 디자인, 개발
 stack: [Node.js, Markdown, Vercel]
 github: https://github.com/pengnam1131/my-blog
-demo: https://example.com
+demo: 바로 이곳입니다.
 featured: true
 ---
 
@@ -23,3 +23,5 @@ featured: true
 ## 배운 점
 
 정적 사이트만으로도 블로그에 필요한 기능 대부분을 만들 수 있었습니다. 댓글은 GitHub Discussions 기반의 giscus로 붙일 수 있습니다.
+
+## 언젠간 동적 호스팅을 사용해, DB와 연동하려고 합니다.
