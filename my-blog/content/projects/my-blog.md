@@ -6,7 +6,7 @@ period: 2026.11
 role: 기획, 디자인, 개발
 stack: [Node.js, Markdown, Vercel]
 github: https://github.com/pengnam1131/my-blog
-demo: 바로 이곳입니다.
+demo:
 featured: true
 ---
 
