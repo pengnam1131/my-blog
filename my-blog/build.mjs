@@ -171,7 +171,7 @@ ${body}
 <footer class="site-footer">
   <div class="wrap footer-inner">
     <span>© ${new Date().getFullYear()} ${esc(site.author)}</span>
-    <span class="footer-links">${socialLinks()}<a href="/rss.xml">RSS</a></span>
+    <span class="footer-links">${socialLinks()}</span>
   </div>
 </footer>
 <script src="/assets/main.js" defer></script>
