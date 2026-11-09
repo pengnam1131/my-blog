@@ -31,9 +31,9 @@ export default {
   // 댓글 (선택) — giscus.app 에서 값을 발급받아 넣으면 글 아래에 댓글창이 생깁니다.
   // 비워두면 댓글 기능이 꺼집니다.
   giscus: {
-    repo: "",        // 예: "your-id/my-blog"
-    repoId: "",
-    category: "",
-    categoryId: "",
+    repo: "pengnam1131/my-blog",        // 예: "your-id/my-blog"
+    repoId: "R_kgDOVlT73g",
+    category: "Announcements",
+    categoryId: "DIC_kwDOVlT73s4DKte7",
   },
 };
