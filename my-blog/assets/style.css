@@ -98,10 +98,10 @@ a:hover .mark, a:focus-visible .mark { background-size: 100% 0.55em; }
 .theme-toggle:hover { color: var(--ink); border-color: var(--muted); }
 
 /* ── 홈: 이름 ── */
-.hero { padding: clamp(4rem, 12vw, 8.5rem) 0 clamp(3rem, 7vw, 5rem); }
+.hero { padding: clamp(3rem, 8vw, 5rem) 0 clamp(2.5rem, 5vw, 3.5rem); }
 .hero-name {
   margin: 0;
-  font-size: clamp(3.5rem, 13vw, 8.5rem);
+  font-size: clamp(2.5rem, 7vw, 4.5rem);
   font-weight: 800;
   line-height: 1;
   letter-spacing: -0.045em;
